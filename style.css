@@ -1,0 +1,11 @@
+header{
+    padding: 25px;
+}
+h1.title{
+    font-style: italic;
+    font-weight: bolder;
+    font-size: 45px;
+}
+*{
+    margin: 20px;
+}
