@@ -13,10 +13,10 @@ h1.title{
     
 }
 *{
-    margin: 20px;
+    margin: 100px;
 }
 body{
-    background-image: linear-gradient(to right, yellow, orange)
+    background-image: linear-gradient(to right, yellow, orange);
 }
 .hidden{
     display: none;
