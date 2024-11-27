@@ -1,11 +1,23 @@
 header{
     padding: 25px;
+    position: absolute;
+    top: auto;
+    text-align: center;
+    background-color: antiquewhite;
 }
 h1.title{
     font-style: italic;
     font-weight: bolder;
     font-size: 45px;
+    color: black;
+    
 }
 *{
     margin: 20px;
+}
+body{
+    background-image: linear-gradient(to right, yellow, orange)
+}
+.hidden{
+    display: none;
 }
